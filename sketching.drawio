@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-01T03:08:07.360Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="rU3UUXji8A3tQnbUSf8w" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-01T03:10:46.530Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="u1rVMitQrGBgw2Sgy9aN" version="12.4.8" type="github">
   <diagram id="T3aL5X-1EMsDyOF4aQC-" name="Page-1">
     <mxGraphModel dx="2272" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -25,8 +25,8 @@
         <mxCell id="gHFnzDRZlQcek6Eq3htk-8" value="messages table:&lt;br&gt;&lt;br&gt;chats are between a pre-defined series of entities.&lt;br&gt;downside: cannot flexibly add to the assemblages chatting.&amp;nbsp;&lt;br&gt;However, adding a new user to a participating assembly&lt;br&gt;will allow that user to see the entire history of the conversation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="650" width="350" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="58gmecP8zFCgHmUxJLat-1" value="assemblies, events, then messages. Three main pieces of functionality.&lt;br&gt;&lt;br&gt;tomorrow:&lt;br&gt;create and switch between assemblies, view and edit assembly profile&lt;br&gt;&lt;br&gt;thursday: create and edit events, see list of events.&lt;br&gt;&lt;br&gt;Friday / sat : send messages to other users. How???" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="931" width="390" height="120" as="geometry"/>
+        <mxCell id="58gmecP8zFCgHmUxJLat-1" value="assemblies, events, then messages. Three main pieces of functionality.&lt;br&gt;&lt;br&gt;tomorrow:&lt;br&gt;create and switch between assemblies, view and edit assembly profile&lt;br&gt;&lt;br&gt;thursday: create and edit events, see list of events.&lt;br&gt;&lt;br&gt;Friday / sat : send messages to other users. How???&lt;br&gt;we don&#39;t need full text search, yet.&amp;nbsp;&lt;br&gt;we just need to query based on user name on key stroke. Easy.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-46" y="916" width="390" height="150" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
